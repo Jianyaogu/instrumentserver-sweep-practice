@@ -1,0 +1,725 @@
+2025-10-13 19:03:09	: instrumentserver.client.core	: INFO	: Connecting to tcp://localhost:5555
+2025-10-13 19:03:09	: instrumentserver.client.core	: INFO	: Connecting to tcp://localhost:5555
+2025-10-13 19:03:11	: instrumentserver.server.core	: INFO	: Starting server.
+2025-10-13 19:03:11	: instrumentserver.server.core	: INFO	: The safe word is: BMGSLRZMDCHWDGDB
+2025-10-13 19:03:11	: instrumentserver.server.core	: INFO	: Listening at tcp://127.0.0.1:5555
+2025-10-13 19:03:11	: instrumentserver.server.core	: INFO	: Starting publishing server at tcp://*:5556
+2025-10-13 19:03:11	: instrumentserver.server.core	: INFO	: Not broadcasting to external address
+2025-10-13 19:03:11	: instrumentserver.client.core	: INFO	: Connecting to tcp://localhost:5555
+2025-10-13 19:03:11	: instrumentserver.server.core	: INFO	: Get existing instruments requested: []
+2025-10-13 19:05:11	: instrumentserver.server.core	: WARNING	: Server has received the safeword and will shut down.
+2025-10-13 19:05:11	: instrumentserver.server.application	: INFO	: ZMQ server closed.
+2025-10-13 19:05:11	: instrumentserver.server.application	: INFO	: Server thread finished.
+2025-10-13 19:11:02	: instrumentserver.client.core	: INFO	: Connecting to tcp://localhost:5555
+2025-10-13 19:11:07	: instrumentserver.client.core	: INFO	: Connecting to tcp://localhost:5555
+2025-10-13 19:27:20	: instrumentserver.client.core	: INFO	: Connecting to tcp://localhost:5555
+2025-10-13 19:27:20	: instrumentserver.client.core	: INFO	: Connecting to tcp://localhost:5555
+2025-10-13 19:27:22	: instrumentserver.server.core	: INFO	: Starting server.
+2025-10-13 19:27:22	: instrumentserver.server.core	: INFO	: The safe word is: ZZYRZBDITQMIPLPZ
+2025-10-13 19:27:22	: instrumentserver.server.core	: INFO	: Listening at tcp://127.0.0.1:5555
+2025-10-13 19:27:22	: instrumentserver.server.core	: INFO	: Starting publishing server at tcp://*:5556
+2025-10-13 19:27:22	: instrumentserver.server.core	: INFO	: Not broadcasting to external address
+2025-10-13 19:27:22	: instrumentserver.client.core	: INFO	: Connecting to tcp://localhost:5555
+2025-10-13 19:27:22	: instrumentserver.server.core	: INFO	: Get existing instruments requested: []
+2025-10-13 19:27:37	: instrumentserver.server.core	: WARNING	: Server has received the safeword and will shut down.
+2025-10-13 19:27:37	: instrumentserver.server.application	: INFO	: ZMQ server closed.
+2025-10-13 19:27:37	: instrumentserver.server.application	: INFO	: Server thread finished.
+2025-10-13 19:28:02	: instrumentserver.client.core	: INFO	: Connecting to tcp://localhost:5555
+2025-10-13 19:28:02	: instrumentserver.client.core	: INFO	: Connecting to tcp://localhost:5555
+2025-10-13 19:28:03	: instrumentserver.server.core	: INFO	: Starting server.
+2025-10-13 19:28:03	: instrumentserver.server.core	: INFO	: The safe word is: NHHAUEGNYNEXUAMD
+2025-10-13 19:28:03	: instrumentserver.server.core	: INFO	: Listening at tcp://127.0.0.1:5555
+2025-10-13 19:28:03	: instrumentserver.server.core	: INFO	: Starting publishing server at tcp://*:5556
+2025-10-13 19:28:03	: instrumentserver.server.core	: INFO	: Not broadcasting to external address
+2025-10-13 19:28:03	: instrumentserver.client.core	: INFO	: Connecting to tcp://localhost:5555
+2025-10-13 19:28:03	: instrumentserver.server.core	: INFO	: Get existing instruments requested: []
+2025-10-13 19:30:01	: instrumentserver.client.core	: INFO	: Connecting to tcp://localhost:5555
+2025-10-13 19:30:01	: instrumentserver.server.core	: INFO	: Get existing instruments requested: []
+2025-10-13 19:30:01	: instrumentserver.server.core	: INFO	: Get existing instruments requested: []
+2025-10-13 19:30:01	: instrumentserver.params	: WARNING	: parameter file not found, cannot load.
+2025-10-13 19:30:01	: instrumentserver.params	: WARNING	: parameter file not found, cannot load.
+2025-10-13 19:30:01	: instrumentserver.server.core	: INFO	: Function called:'parameter_manager.fromFile', args: [None, True], kwargs: {})'.
+2025-10-13 19:30:01	: instrumentserver.client.proxy	: INFO	: Connecting to tcp://localhost:5556
+2025-10-13 19:30:02	: instrumentserver.server.core	: INFO	: Function called:'parameter_manager.list_profiles', args: [], kwargs: {})'.
+2025-10-13 19:30:02	: instrumentserver.server.core	: WARNING	: Response to client: ServerResponse(message=None, error=ValueError('Profile  does not exist'), _class_type='ServerResponse')
+2025-10-14 00:41:53	: instrumentserver.client.core	: INFO	: Connecting to tcp://localhost:5555
+2025-10-14 00:41:53	: instrumentserver.client.core	: INFO	: Connecting to tcp://localhost:5555
+2025-10-14 00:41:54	: instrumentserver.server.core	: INFO	: Starting server.
+2025-10-14 00:41:54	: instrumentserver.server.core	: INFO	: The safe word is: NLHDFKBSICCCIOIC
+2025-10-14 00:41:54	: instrumentserver.server.core	: INFO	: Listening at tcp://127.0.0.1:5555
+2025-10-14 00:41:54	: instrumentserver.server.core	: INFO	: Starting publishing server at tcp://*:5556
+2025-10-14 00:41:54	: instrumentserver.server.core	: INFO	: Not broadcasting to external address
+2025-10-14 00:41:54	: instrumentserver.client.core	: INFO	: Connecting to tcp://localhost:5555
+2025-10-14 00:41:54	: instrumentserver.server.core	: INFO	: Get existing instruments requested: []
+2025-10-14 00:41:59	: instrumentserver.server.core	: INFO	: Get existing instruments requested: []
+2025-10-14 00:42:07	: instrumentserver.server.core	: INFO	: Get existing instruments requested: []
+2025-10-14 00:42:07	: instrumentserver.server.core	: INFO	: Get existing instruments requested: []
+2025-10-14 00:42:07	: instrumentserver.server.core	: WARNING	: Response to client: ServerResponse(message=None, error=ValueError('Empty module name'), _class_type='ServerResponse')
+2025-10-14 00:42:07	: instrumentserver.client.core	: ERROR	: Server raised the following exception: Empty module name
+2025-10-14 00:42:07	: instrumentserver.server.core	: WARNING	: Response to client: ServerResponse(message=None, error=AttributeError("'Station' object and its delegates have no attribute ''"), _class_type='ServerResponse')
+2025-10-14 00:42:07	: instrumentserver.client.core	: ERROR	: Server raised the following exception: 'Station' object and its delegates have no attribute ''
+2025-10-14 00:45:06	: instrumentserver.client.core	: INFO	: Connecting to tcp://localhost:5555
+2025-10-14 00:45:06	: instrumentserver.client.core	: INFO	: Connecting to tcp://localhost:5555
+2025-10-14 00:45:06	: instrumentserver.server.core	: INFO	: Starting server.
+2025-10-14 00:45:06	: instrumentserver.server.core	: INFO	: The safe word is: FJPKJELKAZPSAYPQ
+2025-10-14 00:45:06	: instrumentserver.server.core	: INFO	: Listening at tcp://127.0.0.1:5555
+2025-10-14 00:45:06	: instrumentserver.server.core	: INFO	: Starting publishing server at tcp://*:5556
+2025-10-14 00:45:06	: instrumentserver.server.core	: INFO	: Not broadcasting to external address
+2025-10-14 00:45:06	: instrumentserver.client.core	: INFO	: Connecting to tcp://localhost:5555
+2025-10-14 00:45:06	: instrumentserver.server.core	: INFO	: Get existing instruments requested: []
+2025-10-14 00:54:59	: instrumentserver.client.core	: INFO	: Connecting to tcp://localhost:5555
+2025-10-14 00:54:59	: instrumentserver.server.core	: INFO	: Get existing instruments requested: []
+2025-10-14 00:54:59	: instrumentserver.server.core	: INFO	: Get existing instruments requested: []
+2025-10-14 00:54:59	: instrumentserver.params	: WARNING	: parameter file not found, cannot load.
+2025-10-14 00:54:59	: instrumentserver.params	: WARNING	: parameter file not found, cannot load.
+2025-10-14 00:54:59	: instrumentserver.server.core	: INFO	: Function called:'parameter_manager.fromFile', args: [None, True], kwargs: {})'.
+2025-10-14 00:54:59	: instrumentserver.client.proxy	: INFO	: Connecting to tcp://localhost:5556
+2025-10-14 00:54:59	: instrumentserver.server.core	: INFO	: Function called:'parameter_manager.list_profiles', args: [], kwargs: {})'.
+2025-10-14 00:54:59	: instrumentserver.server.core	: WARNING	: Response to client: ServerResponse(message=None, error=ValueError('Profile  does not exist'), _class_type='ServerResponse')
+2025-10-14 01:02:52	: instrumentserver.server.core	: INFO	: Get existing instruments requested: ['parameter_manager']
+2025-10-14 01:03:08	: instrumentserver.server.core	: INFO	: Get existing instruments requested: ['parameter_manager']
+2025-10-14 01:03:09	: instrumentserver.server.core	: INFO	: Get existing instruments requested: ['parameter_manager']
+2025-10-14 01:03:09	: instrumentserver.client.proxy	: INFO	: Connecting to tcp://localhost:5556
+2025-10-14 01:11:52	: instrumentserver.gui.instruments	: WARNING	: 'to_tree' Raised the following execution: to_tree() takes 1 positional argument but 2 were given
+2025-10-14 01:11:53	: instrumentserver.gui.instruments	: INFO	: 'toParamDict' returned: {}
+2025-10-14 01:11:53	: instrumentserver.server.core	: INFO	: Function called:'parameter_manager.toParamDict', args: [False, ['unit']], kwargs: {})'.
+2025-10-14 01:11:55	: instrumentserver.gui.instruments	: WARNING	: 'to_tree' Raised the following execution: to_tree() takes 1 positional argument but 2 were given
+2025-10-14 01:15:56	: instrumentserver.server.core	: WARNING	: Server has received the safeword and will shut down.
+2025-10-14 01:15:56	: instrumentserver.server.application	: INFO	: ZMQ server closed.
+2025-10-14 01:15:56	: instrumentserver.server.application	: INFO	: Server thread finished.
+2025-10-14 01:29:41	: instrumentserver.client.core	: INFO	: Connecting to tcp://localhost:5555
+2025-10-14 01:29:41	: instrumentserver.client.core	: INFO	: Connecting to tcp://localhost:5555
+2025-10-14 01:29:42	: instrumentserver.server.core	: INFO	: Starting server.
+2025-10-14 01:29:42	: instrumentserver.server.core	: INFO	: The safe word is: EZIYIQWNGNQZPMXR
+2025-10-14 01:29:42	: instrumentserver.server.core	: INFO	: Listening at tcp://127.0.0.1:5555
+2025-10-14 01:29:42	: instrumentserver.server.core	: INFO	: Starting publishing server at tcp://*:5556
+2025-10-14 01:29:42	: instrumentserver.server.core	: INFO	: Not broadcasting to external address
+2025-10-14 01:29:42	: instrumentserver.client.core	: INFO	: Connecting to tcp://localhost:5555
+2025-10-14 01:29:42	: instrumentserver.server.core	: INFO	: Get existing instruments requested: []
+2025-10-14 01:30:02	: instrumentserver.server.core	: INFO	: Get existing instruments requested: []
+2025-10-14 01:30:02	: instrumentserver.server.core	: INFO	: Get existing instruments requested: []
+2025-10-14 01:30:02	: instrumentserver.server.core	: WARNING	: Response to client: ServerResponse(message=None, error=ValueError('Empty module name'), _class_type='ServerResponse')
+2025-10-14 01:30:02	: instrumentserver.client.core	: ERROR	: Server raised the following exception: Empty module name
+2025-10-14 01:30:02	: instrumentserver.server.core	: WARNING	: Response to client: ServerResponse(message=None, error=AttributeError("'Station' object and its delegates have no attribute 'parameter_manager'"), _class_type='ServerResponse')
+2025-10-14 01:30:02	: instrumentserver.client.core	: ERROR	: Server raised the following exception: 'Station' object and its delegates have no attribute 'parameter_manager'
+2025-10-14 01:30:10	: instrumentserver.server.core	: INFO	: Get existing instruments requested: []
+2025-10-14 01:30:10	: instrumentserver.server.core	: INFO	: Get existing instruments requested: []
+2025-10-14 01:30:10	: instrumentserver.server.core	: WARNING	: Response to client: ServerResponse(message=None, error=ValueError('Empty module name'), _class_type='ServerResponse')
+2025-10-14 01:30:10	: instrumentserver.client.core	: ERROR	: Server raised the following exception: Empty module name
+2025-10-14 01:30:10	: instrumentserver.server.core	: WARNING	: Response to client: ServerResponse(message=None, error=AttributeError("'Station' object and its delegates have no attribute 'parameter_manager'"), _class_type='ServerResponse')
+2025-10-14 01:30:10	: instrumentserver.client.core	: ERROR	: Server raised the following exception: 'Station' object and its delegates have no attribute 'parameter_manager'
+2025-10-14 01:32:44	: instrumentserver.server.application	: INFO	: Loading parameters from file: C:\Users\yoyo1\instrumentserver-sweep-practice\parameters.json
+2025-10-14 01:32:44	: instrumentserver.client.proxy	: WARNING	: File C:\Users\yoyo1\instrumentserver-sweep-practice\parameters.json does not exist. No params loaded.
+2025-10-14 01:42:03	: instrumentserver.server.core	: WARNING	: Server has received the safeword and will shut down.
+2025-10-14 01:42:03	: instrumentserver.server.application	: INFO	: ZMQ server closed.
+2025-10-14 01:42:03	: instrumentserver.server.application	: INFO	: Server thread finished.
+2025-10-14 01:49:20	: instrumentserver.client.core	: INFO	: Connecting to tcp://localhost:5555
+2025-10-14 01:49:20	: instrumentserver.client.core	: INFO	: Connecting to tcp://localhost:5555
+2025-10-14 01:49:20	: instrumentserver.server.core	: INFO	: Starting server.
+2025-10-14 01:49:20	: instrumentserver.server.core	: INFO	: The safe word is: IUDKHCSNMSGYRARQ
+2025-10-14 01:49:20	: instrumentserver.server.core	: INFO	: Listening at tcp://127.0.0.1:5555
+2025-10-14 01:49:20	: instrumentserver.server.core	: INFO	: Starting publishing server at tcp://*:5556
+2025-10-14 01:49:20	: instrumentserver.server.core	: INFO	: Not broadcasting to external address
+2025-10-14 01:49:20	: instrumentserver.client.core	: INFO	: Connecting to tcp://localhost:5555
+2025-10-14 01:49:20	: instrumentserver.server.core	: INFO	: Get existing instruments requested: []
+2025-10-14 01:49:45	: instrumentserver.server.core	: INFO	: Get existing instruments requested: []
+2025-10-14 01:49:45	: instrumentserver.server.core	: INFO	: Get existing instruments requested: []
+2025-10-14 01:49:45	: instrumentserver.params	: WARNING	: parameter file not found, cannot load.
+2025-10-14 01:49:57	: instrumentserver.server.core	: INFO	: Get existing instruments requested: ['paramater_manager']
+2025-10-14 01:49:57	: instrumentserver.client.proxy	: INFO	: Connecting to tcp://localhost:5556
+2025-10-14 01:55:02	: instrumentserver.server.core	: WARNING	: Server has received the safeword and will shut down.
+2025-10-14 01:55:02	: instrumentserver.server.application	: INFO	: ZMQ server closed.
+2025-10-14 01:55:02	: instrumentserver.server.application	: INFO	: Server thread finished.
+2025-10-14 01:55:11	: instrumentserver.client.core	: INFO	: Connecting to tcp://localhost:5555
+2025-10-14 01:55:11	: instrumentserver.client.core	: INFO	: Connecting to tcp://localhost:5555
+2025-10-14 01:55:12	: instrumentserver.server.core	: INFO	: Starting server.
+2025-10-14 01:55:12	: instrumentserver.server.core	: INFO	: The safe word is: RETOJCJKNJIBJUYI
+2025-10-14 01:55:12	: instrumentserver.server.core	: INFO	: Listening at tcp://127.0.0.1:5555
+2025-10-14 01:55:12	: instrumentserver.server.core	: INFO	: Starting publishing server at tcp://*:5556
+2025-10-14 01:55:12	: instrumentserver.server.core	: INFO	: Not broadcasting to external address
+2025-10-14 01:55:12	: instrumentserver.client.core	: INFO	: Connecting to tcp://localhost:5555
+2025-10-14 01:55:12	: instrumentserver.server.core	: INFO	: Get existing instruments requested: []
+2025-10-14 01:56:17	: instrumentserver.server.core	: INFO	: Get existing instruments requested: []
+2025-10-14 01:56:17	: instrumentserver.server.core	: INFO	: Get existing instruments requested: []
+2025-10-14 01:56:17	: instrumentserver.params	: WARNING	: parameter file not found, cannot load.
+2025-10-14 01:57:29	: instrumentserver.client.core	: INFO	: Connecting to tcp://localhost:5555
+2025-10-14 01:57:29	: instrumentserver.client.core	: INFO	: Connecting to tcp://localhost:5555
+2025-10-14 01:57:30	: instrumentserver.server.core	: INFO	: Starting server.
+2025-10-14 01:57:30	: instrumentserver.server.core	: INFO	: The safe word is: QBAEXOHPMZUYZNEK
+2025-10-14 01:57:30	: instrumentserver.server.core	: INFO	: Listening at tcp://127.0.0.1:5555
+2025-10-14 01:57:30	: instrumentserver.server.core	: INFO	: Starting publishing server at tcp://*:5556
+2025-10-14 01:57:30	: instrumentserver.server.core	: INFO	: Not broadcasting to external address
+2025-10-14 01:57:30	: instrumentserver.client.core	: INFO	: Connecting to tcp://localhost:5555
+2025-10-14 01:57:30	: instrumentserver.server.core	: INFO	: Get existing instruments requested: []
+2025-10-14 01:57:50	: instrumentserver.server.core	: INFO	: Get existing instruments requested: []
+2025-10-14 01:57:50	: instrumentserver.server.core	: INFO	: Get existing instruments requested: []
+2025-10-14 01:57:50	: instrumentserver.params	: WARNING	: parameter file not found, cannot load.
+2025-10-14 01:57:54	: instrumentserver.server.core	: INFO	: Get existing instruments requested: ['parameter_manager']
+2025-10-14 01:58:23	: instrumentserver.server.core	: INFO	: Get existing instruments requested: ['parameter_manager']
+2025-10-14 01:58:23	: instrumentserver.server.core	: INFO	: Get existing instruments requested: ['parameter_manager']
+2025-10-14 01:58:23	: instrumentserver.server.core	: INFO	: Get existing instruments requested: ['parameter_manager']
+2025-10-14 01:58:23	: instrumentserver.params	: WARNING	: parameter file not found, cannot load.
+2025-10-14 01:58:27	: instrumentserver.server.core	: INFO	: Get existing instruments requested: ['parameter_manager', 'dummy_instrument']
+2025-10-14 01:58:44	: instrumentserver.server.core	: INFO	: Get existing instruments requested: ['parameter_manager', 'dummy_instrument']
+2025-10-14 01:58:56	: instrumentserver.server.core	: INFO	: Get existing instruments requested: ['parameter_manager', 'dummy_instrument']
+2025-10-14 01:58:57	: instrumentserver.client.proxy	: INFO	: Connecting to tcp://localhost:5556
+2025-10-14 01:59:01	: instrumentserver.server.core	: INFO	: Get existing instruments requested: ['parameter_manager', 'dummy_instrument']
+2025-10-14 01:59:01	: instrumentserver.client.proxy	: INFO	: Connecting to tcp://localhost:5556
+2025-10-14 01:59:19	: instrumentserver.server.core	: INFO	: Get existing instruments requested: ['parameter_manager', 'dummy_instrument']
+2025-10-14 01:59:19	: instrumentserver.server.core	: WARNING	: Response to client: ServerResponse(message=None, error=KeyError('Instrument with name dummy_instrument does not exist'), _class_type='ServerResponse')
+2025-10-14 01:59:19	: instrumentserver.client.core	: ERROR	: Server raised the following exception: 'Instrument with name dummy_instrument does not exist'
+2025-10-14 01:59:21	: instrumentserver.server.core	: INFO	: Get existing instruments requested: ['parameter_manager', 'dummy_instrument']
+2025-10-14 01:59:21	: instrumentserver.client.proxy	: INFO	: Connecting to tcp://localhost:5556
+2025-10-14 02:05:23	: instrumentserver.server.core	: WARNING	: Server has received the safeword and will shut down.
+2025-10-14 02:05:23	: instrumentserver.server.application	: INFO	: ZMQ server closed.
+2025-10-14 02:05:23	: instrumentserver.server.application	: INFO	: Server thread finished.
+2025-10-14 02:06:49	: instrumentserver.client.core	: INFO	: Connecting to tcp://localhost:5555
+2025-10-14 02:06:49	: instrumentserver.client.core	: INFO	: Connecting to tcp://localhost:5555
+2025-10-14 02:06:49	: instrumentserver.server.core	: INFO	: Starting server.
+2025-10-14 02:06:49	: instrumentserver.server.core	: INFO	: The safe word is: RSVPJUBKKRRGFNMK
+2025-10-14 02:06:49	: instrumentserver.server.core	: INFO	: Listening at tcp://127.0.0.1:5555
+2025-10-14 02:06:49	: instrumentserver.server.core	: INFO	: Starting publishing server at tcp://*:5556
+2025-10-14 02:06:49	: instrumentserver.server.core	: INFO	: Not broadcasting to external address
+2025-10-14 02:06:49	: instrumentserver.client.core	: INFO	: Connecting to tcp://localhost:5555
+2025-10-14 02:06:49	: instrumentserver.server.core	: INFO	: Get existing instruments requested: []
+2025-10-14 02:07:40	: instrumentserver.server.core	: INFO	: Get existing instruments requested: []
+2025-10-14 02:07:40	: instrumentserver.server.core	: INFO	: Get existing instruments requested: []
+2025-10-14 02:07:40	: instrumentserver.params	: WARNING	: parameter file not found, cannot load.
+2025-10-14 02:07:58	: instrumentserver.server.core	: INFO	: Get existing instruments requested: ['parameter_manager']
+2025-10-14 02:07:58	: instrumentserver.client.proxy	: INFO	: Connecting to tcp://localhost:5556
+2025-10-14 02:12:46	: instrumentserver.server.core	: INFO	: Get existing instruments requested: ['parameter_manager']
+2025-10-14 02:12:46	: instrumentserver.params	: WARNING	: parameter file not found, cannot load.
+2025-10-14 02:12:46	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-creation, with a value: 5.0.
+2025-10-14 02:12:46	: instrumentserver.server.core	: INFO	: Function called:'parameter_manager.add_parameter', args: ['qubit.frequency'], kwargs: {'initial_value': 5.0, 'unit': 'GHz'})'.
+2025-10-14 02:12:46	: instrumentserver.params	: WARNING	: parameter file not found, cannot load.
+2025-10-14 02:12:46	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.pipulse.len has broadcast an update of type: parameter-creation, with a value: 40.
+2025-10-14 02:12:46	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.0.
+2025-10-14 02:12:46	: instrumentserver.server.core	: INFO	: Function called:'parameter_manager.list', args: [], kwargs: {})'.
+2025-10-14 02:12:46	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.pipulse.amp has broadcast an update of type: parameter-creation, with a value: 0.5.
+2025-10-14 02:12:46	: instrumentserver.server.core	: INFO	: Function called:'parameter_manager.list', args: [], kwargs: {})'.
+2025-10-14 02:12:46	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.0.
+2025-10-14 02:12:46	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.pipulse.len has broadcast an update of type: parameter-call, with a value: 40.
+2025-10-14 02:12:46	: instrumentserver.server.core	: INFO	: Function called:'parameter_manager.add_parameter', args: ['qubit.pipulse.len'], kwargs: {'initial_value': 40, 'unit': 'ns'})'.
+2025-10-14 02:12:46	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.0
+2025-10-14 02:12:46	: instrumentserver.server.core	: INFO	: Function called:'parameter_manager.add_parameter', args: ['qubit.pipulse.amp'], kwargs: {'initial_value': 0.5, 'unit': 'V'})'.
+2025-10-14 02:12:46	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.pipulse.amp has broadcast an update of type: parameter-call, with a value: 0.5.
+2025-10-14 02:12:46	: instrumentserver.server.core	: INFO	: Function called:'parameter_manager.list', args: [], kwargs: {})'.
+2025-10-14 02:12:46	: instrumentserver.server.core	: INFO	: Function called:'parameter_manager.list', args: [], kwargs: {})'.
+2025-10-14 02:12:46	: instrumentserver.server.core	: INFO	: Function called:'parameter_manager.list', args: [], kwargs: {})'.
+2025-10-14 02:12:46	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.0
+2025-10-14 02:12:46	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.pipulse.len' retrieved: 40
+2025-10-14 02:12:46	: instrumentserver.server.core	: INFO	: Function called:'parameter_manager.list', args: [], kwargs: {})'.
+2025-10-14 02:12:46	: instrumentserver.server.core	: INFO	: Function called:'parameter_manager.list', args: [], kwargs: {})'.
+2025-10-14 02:12:46	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.pipulse.amp' retrieved: 0.5
+2025-10-14 02:25:17	: instrumentserver.server.core	: INFO	: Get existing instruments requested: ['parameter_manager']
+2025-10-14 02:25:17	: instrumentserver.server.core	: INFO	: Function called:'parameter_manager.list', args: [], kwargs: {})'.
+2025-10-14 02:25:17	: instrumentserver.server.core	: INFO	: Function called:'parameter_manager.list', args: [], kwargs: {})'.
+2025-10-14 02:25:17	: instrumentserver.server.core	: INFO	: Function called:'parameter_manager.list', args: [], kwargs: {})'.
+2025-10-14 02:25:17	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.0
+2025-10-14 02:25:17	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.0.
+2025-10-14 02:25:17	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.0
+2025-10-14 02:25:17	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.0.
+2025-10-14 02:25:17	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.01
+2025-10-14 02:25:17	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.01.
+2025-10-14 02:25:17	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.01
+2025-10-14 02:25:17	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.01.
+2025-10-14 02:25:17	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.02
+2025-10-14 02:25:17	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.02.
+2025-10-14 02:25:17	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.02
+2025-10-14 02:25:17	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.02.
+2025-10-14 02:25:18	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.03
+2025-10-14 02:25:18	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.03.
+2025-10-14 02:25:18	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.03
+2025-10-14 02:25:18	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.03.
+2025-10-14 02:25:18	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.04
+2025-10-14 02:25:18	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.04.
+2025-10-14 02:25:18	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.04.
+2025-10-14 02:25:18	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.04
+2025-10-14 02:25:18	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.05
+2025-10-14 02:25:18	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.05.
+2025-10-14 02:25:18	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.05
+2025-10-14 02:25:18	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.05.
+2025-10-14 02:25:18	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.06
+2025-10-14 02:25:18	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.06.
+2025-10-14 02:25:18	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.06
+2025-10-14 02:25:18	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.06.
+2025-10-14 02:25:18	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.07
+2025-10-14 02:25:18	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.07.
+2025-10-14 02:25:18	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.07
+2025-10-14 02:25:18	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.07.
+2025-10-14 02:25:19	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.08
+2025-10-14 02:25:19	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.08.
+2025-10-14 02:25:19	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.08
+2025-10-14 02:25:19	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.08.
+2025-10-14 02:25:19	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.09
+2025-10-14 02:25:19	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.09.
+2025-10-14 02:25:19	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.09
+2025-10-14 02:25:19	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.09.
+2025-10-14 02:25:19	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.1
+2025-10-14 02:25:19	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.1.
+2025-10-14 02:25:19	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.1
+2025-10-14 02:25:19	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.1.
+2025-10-14 02:25:19	: instrumentserver.server.core	: INFO	: Function called:'parameter_manager.toFile', args: [None, 'parameter_manager-qubit1'], kwargs: {})'.
+2025-10-15 00:51:38	: instrumentserver.server.core	: INFO	: Get existing instruments requested: ['parameter_manager']
+2025-10-15 00:51:38	: instrumentserver.server.core	: INFO	: Function called:'parameter_manager.list', args: [], kwargs: {})'.
+2025-10-15 00:51:38	: instrumentserver.server.core	: INFO	: Function called:'parameter_manager.list', args: [], kwargs: {})'.
+2025-10-15 00:51:38	: instrumentserver.server.core	: INFO	: Function called:'parameter_manager.list', args: [], kwargs: {})'.
+2025-10-15 00:51:38	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.0
+2025-10-15 00:51:38	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.0.
+2025-10-15 00:51:38	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.0.
+2025-10-15 00:51:38	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.0
+2025-10-15 00:51:38	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.01
+2025-10-15 00:51:38	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.01.
+2025-10-15 00:51:38	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.01
+2025-10-15 00:51:38	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.01.
+2025-10-15 00:51:39	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.02.
+2025-10-15 00:51:39	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.02
+2025-10-15 00:51:39	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.02
+2025-10-15 00:51:39	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.02.
+2025-10-15 00:51:39	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.03
+2025-10-15 00:51:39	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.03.
+2025-10-15 00:51:39	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.03.
+2025-10-15 00:51:39	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.03
+2025-10-15 00:51:39	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.04.
+2025-10-15 00:51:39	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.04
+2025-10-15 00:51:39	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.04.
+2025-10-15 00:51:39	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.04
+2025-10-15 00:51:39	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.05.
+2025-10-15 00:51:39	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.05
+2025-10-15 00:51:39	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.05
+2025-10-15 00:51:39	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.05.
+2025-10-15 00:51:39	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.06.
+2025-10-15 00:51:39	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.06
+2025-10-15 00:51:39	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.06
+2025-10-15 00:51:39	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.06.
+2025-10-15 00:51:40	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.07.
+2025-10-15 00:51:40	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.07
+2025-10-15 00:51:40	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.07.
+2025-10-15 00:51:40	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.07
+2025-10-15 00:51:40	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.08.
+2025-10-15 00:51:40	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.08
+2025-10-15 00:51:40	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.08.
+2025-10-15 00:51:40	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.08
+2025-10-15 00:51:40	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.09.
+2025-10-15 00:51:40	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.09
+2025-10-15 00:51:40	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.09.
+2025-10-15 00:51:40	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.09
+2025-10-15 00:51:40	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.1.
+2025-10-15 00:51:40	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.1
+2025-10-15 00:51:40	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.1.
+2025-10-15 00:51:40	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.1
+2025-10-15 00:51:40	: instrumentserver.server.core	: INFO	: Function called:'parameter_manager.toFile', args: [None, 'parameter_manager-qubit1'], kwargs: {})'.
+2025-10-15 01:22:36	: instrumentserver.server.core	: INFO	: Get existing instruments requested: ['parameter_manager']
+2025-10-15 01:55:01	: instrumentserver.server.core	: INFO	: Get existing instruments requested: ['parameter_manager']
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Get existing instruments requested: ['parameter_manager']
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Function called:'parameter_manager.list', args: [], kwargs: {})'.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Function called:'parameter_manager.list', args: [], kwargs: {})'.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Function called:'parameter_manager.list', args: [], kwargs: {})'.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.0
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.0.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.0.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.0
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.01.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.01
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.01.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.01
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.02.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.02
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.02
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.02.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.03.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.03
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.03
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.03.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.04.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.04
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.04.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.04
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.05
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.05.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.05.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.05
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.06.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.06
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.06.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.06
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.07.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.07
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.07.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.08.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.07
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.08
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.08.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.08
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.09.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.09.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.09
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.09
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.1.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.1
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.1.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.1
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.11.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.11
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.11.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.11
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.12.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.12
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.12.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.12
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.13.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.13
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.13.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.13
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.14.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.14
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.14
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.14.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.15
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.15.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.15
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.15.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.16
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.16.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.16.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.16
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.17.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.17
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.17.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.17
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.18.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.18
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.18.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.18
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.19.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.19
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.19
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.19.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.2.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.2
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.2.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.2
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.21.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.21
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.21.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.21
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.22
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.22.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.22
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.22.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.23
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.23.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.23.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.23
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.24
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.24.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.24.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.24
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.25
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.25.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.25
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.25.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.26.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.26
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.26.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.26
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.27
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.27.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.27
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.27.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.28.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.28
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.28.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.28
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.29.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.29
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.29
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.29.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.3
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.3.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.3.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.3
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.31.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.31
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.31.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.31
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.32
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.32.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.32
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.32.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.33
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.33.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.33
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.33.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.34
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.34.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.34.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.34
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.35.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.35
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.35.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.35
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.36.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.36
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.36.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.36
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.37.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.37
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.37.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.37
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.38.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.38
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.38.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.38
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.39
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.39.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.39
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.39.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.4
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.4.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.4
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.4.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.41.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.41
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.41
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.41.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.42
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.42.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.42
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.42.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.43.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.43
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.43.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.43
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.44
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.44.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.44.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.44
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.45
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.45.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.45
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.45.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.46.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.46
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.46.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.46
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.47
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.47.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.47.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.47
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.48.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.48
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.48.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.48
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.49.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.49
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.49
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.49.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.5
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.5.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.5.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.5
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.0
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.0.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.0.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.0
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.01
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.01.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.01.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.01
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.02.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.02
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.02
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.02.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.03.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.03
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.03.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.03
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.04.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.04
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.04
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.04.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.05
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.05.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.05
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.05.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.06.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.06
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.06
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.06.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.07.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.07
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.07.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.07
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.08.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.08
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.08
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.08.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.09.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.09
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.09
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.09.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.1.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.1
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.1.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.1
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.11
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.11.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.11
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.11.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.12.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.12
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.12.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.12
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.13
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.13.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.13
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.13.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.14
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.14.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.14.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.14
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.15
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.15.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.15
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.15.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.16
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.16.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.16
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.16.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.17
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.17.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.17
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.17.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.18.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.18
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.18.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.18
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.19.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.19
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.19.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.19
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.2.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.2
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.2.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.2
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.21
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.21.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.21
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.21.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.22
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.22.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.22
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.22.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.23.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.23
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.23.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.23
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.24
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.24.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.24
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.24.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.25.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.25
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.25.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.25
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.26
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.26.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.26
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.26.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.27.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.27
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.27
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.27.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.28.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.28
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.28
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.28.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.29
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.29.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.29
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.29.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.3
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.3.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.3
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.3.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.31
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.31.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.31
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.31.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.32
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.32.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.32
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.32.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.33
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.33.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.33
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.33.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.34
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.34.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.34
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.34.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.35
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.35.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.35
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.35.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.36
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.36.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.36
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.36.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.37
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.37.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.37.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.37
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.38
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.38.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.38
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.38.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.39.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.39
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.39.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.39
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.4
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.4.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.4.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.4
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.41
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.41.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.41
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.41.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.42
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.42.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.42
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.42.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.43.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.43
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.43
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.43.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.44.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.44
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.44.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.44
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.45.
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.45
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.45
+2025-10-15 01:58:04	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.45.
+2025-10-15 01:58:05	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.46
+2025-10-15 01:58:05	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.46.
+2025-10-15 01:58:05	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.46.
+2025-10-15 01:58:05	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.46
+2025-10-15 01:58:05	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.47
+2025-10-15 01:58:05	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.47.
+2025-10-15 01:58:05	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.47.
+2025-10-15 01:58:05	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.47
+2025-10-15 01:58:05	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.48
+2025-10-15 01:58:05	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.48.
+2025-10-15 01:58:05	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.48
+2025-10-15 01:58:05	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.48.
+2025-10-15 01:58:05	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.49
+2025-10-15 01:58:05	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.49.
+2025-10-15 01:58:05	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.49
+2025-10-15 01:58:05	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.49.
+2025-10-15 01:58:05	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' set to: 5.5
+2025-10-15 01:58:05	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-update, with a value: 5.5.
+2025-10-15 01:58:05	: instrumentserver.server.core	: INFO	: Parameter 'parameter_manager.qubit.frequency' retrieved: 5.5
+2025-10-15 01:58:05	: instrumentserver.server.core	: INFO	: Parameter parameter_manager.qubit.frequency has broadcast an update of type: parameter-call, with a value: 5.5.

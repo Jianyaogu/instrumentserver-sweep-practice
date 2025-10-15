@@ -1,0 +1,7 @@
+[console_scripts]
+qcodes-dynacool-server = qcodes.instrument_drivers.QuantumDesign.DynaCoolPPMS.private.server:run_server
+qcodes-monitor = qcodes.monitor.monitor:main
+qcodes-refactor = qcodes.extensions._refactor:main
+
+[qcodes.dataset.on_export]
+log_exported_ds = qcodes.extensions:log_dataset_export_info

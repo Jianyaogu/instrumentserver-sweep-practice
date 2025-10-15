@@ -1,0 +1,215 @@
+Metadata-Version: 2.4
+Name: qcodes
+Version: 0.54.1
+Summary: Python-based data acquisition framework developed by the Copenhagen / Delft / Sydney / Microsoft quantum computing consortium
+Maintainer-email: QCoDeS Core Developers <qcodes-support@microsoft.com>
+License-Expression: MIT
+Project-URL: Homepage, https://github.com/microsoft/Qcodes
+Project-URL: Documentation, https://microsoft.github.io/Qcodes/
+Project-URL: Source, https://github.com/microsoft/qcodes
+Project-URL: Tracker, https://github.com/microsoft/Qcodes/issues
+Project-URL: Changelog, https://microsoft.github.io/Qcodes/changes/index.html
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Science/Research
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.12
+Classifier: Programming Language :: Python :: 3.13
+Classifier: Topic :: Scientific/Engineering
+Requires-Python: >=3.11
+Description-Content-Type: text/x-rst
+License-File: LICENSE
+Requires-Dist: broadbean>=0.11.0
+Requires-Dist: h5netcdf>=0.14.1
+Requires-Dist: h5py>=3.8.0
+Requires-Dist: ipywidgets<9.0.0,>=8.0.0
+Requires-Dist: ipykernel>=6.12.0
+Requires-Dist: jsonschema>=4.9.0
+Requires-Dist: matplotlib>=3.6.0
+Requires-Dist: networkx>=3.1
+Requires-Dist: numpy>=1.22.4
+Requires-Dist: packaging>=20.0
+Requires-Dist: pandas>=1.5.0
+Requires-Dist: pyarrow>=11.0.0
+Requires-Dist: pyvisa<1.16.0,>=1.11.0
+Requires-Dist: ruamel.yaml!=0.16.6,>=0.16.0
+Requires-Dist: tabulate>=0.9.0
+Requires-Dist: typing_extensions>=4.6.0
+Requires-Dist: tqdm>=4.59.0
+Requires-Dist: uncertainties>=3.2.0
+Requires-Dist: versioningit>=2.2.1
+Requires-Dist: websockets>=11.0
+Requires-Dist: xarray>=2023.08.0
+Requires-Dist: cf_xarray>=0.8.4
+Requires-Dist: opentelemetry-api>=1.17.0
+Requires-Dist: pillow>=9.2.0
+Requires-Dist: dask>=2022.1.0
+Provides-Extra: zurichinstruments
+Requires-Dist: zhinst-qcodes>=0.3; extra == "zurichinstruments"
+Provides-Extra: loop
+Requires-Dist: qcodes_loop>=0.1.2; extra == "loop"
+Provides-Extra: test
+Requires-Dist: coverage[toml]>=7.10.5; extra == "test"
+Requires-Dist: deepdiff>=8.6.1; extra == "test"
+Requires-Dist: hypothesis>=6.130.0; extra == "test"
+Requires-Dist: lxml>=4.9.4; extra == "test"
+Requires-Dist: lxml-stubs>=0.4.0; extra == "test"
+Requires-Dist: mypy>=1.16.0; extra == "test"
+Requires-Dist: pandas-stubs>=1.2.0.1; extra == "test"
+Requires-Dist: pytest>=8.2.0; extra == "test"
+Requires-Dist: pytest-asyncio>=0.24.0; extra == "test"
+Requires-Dist: pytest-cov>=5.0.0; extra == "test"
+Requires-Dist: pytest-mock>=3.13.0; extra == "test"
+Requires-Dist: pytest-rerunfailures>=14.0; extra == "test"
+Requires-Dist: pytest-xdist>=3.6.1; extra == "test"
+Requires-Dist: PyVisa-sim>=0.6.0; extra == "test"
+Requires-Dist: sphinx>=4.5.0; extra == "test"
+Requires-Dist: types-jsonschema>=4.16.0; extra == "test"
+Requires-Dist: types-networkx>=3.1; extra == "test"
+Requires-Dist: types_requests>=0.1.8; extra == "test"
+Requires-Dist: types-tabulate>=0.1.0; extra == "test"
+Requires-Dist: types-tqdm>=4.64.6; extra == "test"
+Requires-Dist: types_pywin32>=305.0.0.7; extra == "test"
+Requires-Dist: qcodes_loop>=0.1.1; extra == "test"
+Requires-Dist: zhinst.qcodes>=0.5; extra == "test"
+Requires-Dist: libcst>=1.2.0; extra == "test"
+Provides-Extra: docs
+Requires-Dist: autodocsumm>=0.2.9; extra == "docs"
+Requires-Dist: nbsphinx>=0.8.9; extra == "docs"
+Requires-Dist: PyVisa-sim>=0.6.0; extra == "docs"
+Requires-Dist: sphinx>=7.3.5; extra == "docs"
+Requires-Dist: sphinx-favicon>=1.0; extra == "docs"
+Requires-Dist: sphinx-issues>=3.0.1; extra == "docs"
+Requires-Dist: sphinx-jsonschema>=1.19.1; extra == "docs"
+Requires-Dist: furo>=2024.8.6; extra == "docs"
+Requires-Dist: sphinxcontrib-towncrier>=0.5.0a0; extra == "docs"
+Requires-Dist: towncrier<26.0.0,>=24.8.0; extra == "docs"
+Requires-Dist: scipy>=1.10.0; extra == "docs"
+Requires-Dist: qcodes_loop>=0.1.1; extra == "docs"
+Provides-Extra: refactor
+Requires-Dist: libcst>=1.2.0; extra == "refactor"
+Dynamic: license-file
+
+QCoDeS |PyPi| |DOCS| |PyPI python versions| |DOI|
+=================================================
+|Build Status Github| |Build Status Github Docs| |Ruff| |OpenSSF|
+
+QCoDeS is a Python-based data acquisition framework developed by the
+Copenhagen / Delft / Sydney / Microsoft quantum computing consortium.
+While it has been developed to serve the needs of nanoelectronic device
+experiments, it is not inherently limited to such experiments, and can
+be used anywhere a system with many degrees of freedom is controllable
+by computer.
+To learn more about QCoDeS, browse our `homepage <http://microsoft.github.io/Qcodes>`_ .
+
+To get a feeling of QCoDeS read
+`15 minutes to QCoDeS <https://microsoft.github.io/Qcodes/examples/basic_examples/15_minutes_to_QCoDeS.html>`__,
+and/or browse the Jupyter notebooks in `docs/examples
+<https://github.com/QCoDeS/Qcodes/tree/main/docs/examples>`__ .
+
+QCoDeS is compatible with Python 3.11+. It is
+primarily intended for use from Jupyter notebooks, but can be used from
+traditional terminal-based shells and in stand-alone scripts as well. The
+features in `qcodes.utils.magic` are exclusively for Jupyter notebooks.
+
+
+Default branch is now main
+==========================
+
+The default branch in QCoDeS has been renamed to main.
+If you are working with a local clone of QCoDeS you should update it as follows:
+
+* Run `git fetch origin` and `git checkout main`
+* Run `git symbolic-ref refs/remotes/origin/HEAD refs/remotes/origin/main` to update your HEAD reference.
+
+Install
+=======
+
+In general, refer to `here <http://microsoft.github.io/Qcodes/start/index.html#installation>`__
+for installation.
+
+
+Docs
+====
+
+Read it `here <http://microsoft.github.io/Qcodes>`__ .
+Documentation is updated and deployed on every successful build in main.
+
+We use sphinx for documentations, makefiles are provided both for
+Windows, and \*nix, so that you can build the documentation locally.
+
+Make sure that you have the extra dependencies required to install the docs
+
+.. code:: bash
+
+    pip install -r docs_requirements.txt
+
+Go to the directory ``docs`` and
+
+.. code:: bash
+
+    make html
+
+This generate a webpage, index.html, in ``docs/_build/html`` with the
+rendered html.
+
+QCoDeS Loop
+===========
+
+The modules ``qcodes.data``, ``qcodes.plots``, ``qcodes.actions``,
+``qcodes.loops``, ``qcodes.measure``, ``qcodes.extensions.slack``
+and ``qcodes.utils.magic`` that were part of QCoDeS until version 0.37.0.
+have been moved into an independent package called qcodes_loop.
+Please see it's `repository <https://github.com/QCoDeS/Qcodes_loop/>`_ and
+`documentation <https://qcodes.github.io/Qcodes_loop/index.html>`_ for more information.
+
+For the time being it is possible to automatically install the qcodes_loop
+package when installing qcodes by executing ``pip install qcodes[loop]``.
+
+Code of Conduct
+===============
+
+QCoDeS strictly adheres to the `Microsoft Open Source Code of Conduct <https://opensource.microsoft.com/codeofconduct/>`__
+
+
+Contributing
+============
+
+The QCoDeS instrument drivers developed by the members of
+the QCoDeS community but not supported by the QCoDeS developers are contained in
+
+https://github.com/QCoDeS/Qcodes_contrib_drivers
+
+See `Contributing <https://github.com/QCoDeS/Qcodes/tree/main/CONTRIBUTING.rst>`__ for general information about bug/issue
+reports, contributing code, style, and testing.
+
+Trademarks
+==========
+
+This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft trademarks or
+logos is subject to and must follow Microsoft’s Trademark & Brand Guidelines. Use of Microsoft trademarks
+or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
+Any use of third-party trademarks or logos are subject to those third-party’s policies.
+
+License
+=======
+
+See `License <https://github.com/QCoDeS/Qcodes/tree/main/LICENSE>`__.
+
+.. |Build Status Github| image:: https://github.com/QCoDeS/Qcodes/workflows/Run%20mypy%20and%20pytest/badge.svg
+    :target: https://github.com/QCoDeS/Qcodes/actions?query=workflow%3A%22Run+mypy+and+pytest%22+branch%3Amain
+.. |Build Status Github Docs| image:: https://github.com/QCoDeS/Qcodes/workflows/build%20docs/badge.svg
+    :target: https://github.com/QCoDeS/Qcodes/actions?query=workflow%3A%22build+docs%22+branch%3Amain
+.. |Ruff|  image:: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json
+    :target: https://github.com/astral-sh/ruff
+    :alt: Ruff
+.. |PyPi| image:: https://badge.fury.io/py/qcodes.svg
+    :target: https://badge.fury.io/py/qcodes
+.. |PyPI python versions| image:: https://img.shields.io/pypi/pyversions/qcodes.svg
+    :target: https://pypi.python.org/pypi/qcodes/
+.. |DOCS| image:: https://img.shields.io/badge/read%20-thedocs-ff66b4.svg
+   :target: http://microsoft.github.io/Qcodes
+.. |DOI| image:: https://zenodo.org/badge/37137879.svg
+   :target: https://zenodo.org/badge/latestdoi/37137879
+.. |OpenSSF| image:: https://api.securityscorecards.dev/projects/github.com/microsoft/Qcodes/badge
+   :target: https://securityscorecards.dev/viewer/?uri=github.com/microsoft/Qcodes

@@ -1,0 +1,35 @@
+[console_scripts]
+versioningit = versioningit.__main__:main
+
+[hatch]
+versioningit = versioningit.hatch
+
+[setuptools.finalize_distribution_options]
+versioningit = versioningit.hook:setuptools_finalizer
+
+[versioningit.format]
+basic = versioningit.basics:basic_format
+
+[versioningit.next_version]
+minor = versioningit.next_version:next_minor_version
+minor-release = versioningit.next_version:next_minor_release_version
+null = versioningit.next_version:null_next_version
+smallest = versioningit.next_version:next_smallest_version
+smallest-release = versioningit.next_version:next_smallest_release_version
+
+[versioningit.onbuild]
+replace-version = versioningit.onbuild:replace_version_onbuild
+
+[versioningit.tag2version]
+basic = versioningit.basics:basic_tag2version
+
+[versioningit.template_fields]
+basic = versioningit.basics:basic_template_fields
+
+[versioningit.vcs]
+git = versioningit.git:describe_git
+git-archive = versioningit.git:describe_git_archive
+hg = versioningit.hg:describe_hg
+
+[versioningit.write]
+basic = versioningit.basics:basic_write
